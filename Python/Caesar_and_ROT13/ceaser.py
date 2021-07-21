@@ -13,7 +13,8 @@ def encrypt(text,s):
             result += chr ((ord(char)+s-97) % 26 + 97)
     return result
 
-text = "CEASER Cipher Demo "
+text = input ("Enter the plaintext")
+print("Key is random")
 s = randint(0,26)
 
 print "Plain Text : " + text
