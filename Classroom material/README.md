@@ -103,3 +103,38 @@ You can also read through the material there for a better understanding.
 
 
 Also, instead of manually entering the payload through the browser try to use python and send the payload (for the 1st two labs from portswigger)
+
+
+
+# JULY 30
+
+
+Hey everyone!
+
+Today, let's start off with XSS (Cross-Site Scripting). XSS occurs when an HTML input is not properly sanitized, allowing scripting (generally JavaScript) to be executed when entered in that input. Hackers can leverage this vulnerability to execute malicious scripts. XSS is of three types:
+
+Reflected XSS: This happens when the attacker injects browser executable code that affects non-persistent data. This type of attack isn't stored on servers, hence it requires some user interaction (like clicking on a link).
+
+Stored XSS: This is a more damaging vulnerability. The malicious code is injected directly into the server, thus compromising the integrity of the web application itself.
+
+DOM based XSS: DOM or Document Object Model is a programming interface between HTML and JS that allows web apps to update dynamically, and includes functions like eval() or window.location. These functions allow dynamic code execution, so if a hacker can gain control to an input to one of such function, he can use it to sneak in malicious code.
+
+Here's some material for you to get started:
+
+Videos:
+Cross Site Scripting (Computerphile):
+https://www.youtube.com/watch?v=L5l9lSnNMxg
+
+XXS (PwnFunction):
+
+https://www.youtube.com/watch?v=EoaDgUgS6QA
+
+
+Reading:
+https://portswigger.net/web-security/cross-site-scripting
+
+Labs to Solve:
+
+How many ever labs you can from: https://xss.pwnfunction.com/
+
+How many ever labs you can from: https://unescape-room.jobertabma.nl/
