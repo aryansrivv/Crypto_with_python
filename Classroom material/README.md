@@ -138,3 +138,29 @@ Labs to Solve:
 How many ever labs you can from: https://xss.pwnfunction.com/
 
 How many ever labs you can from: https://unescape-room.jobertabma.nl/
+
+
+
+# August 3 
+Hey guys hope you're done with web scraping, SQLi & XSS. This assignment is based on it.
+
+
+
+(Web Scraping):
+
+List out all the href links, names of artists, categories from the website.
+
+
+
+(Web Security):
+
+Test for XSS and SQLi on http://testphp.vulnweb.com/ using python.
+You can hardcode 2 to 3 payloads for each vulnerability and test it against the website (use the response to detect for XSS or SQLi).
+
+
+
+Please don't plagiarize your code
+
+
+
+Submit the code as .py file.
