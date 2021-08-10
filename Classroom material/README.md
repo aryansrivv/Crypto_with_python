@@ -164,3 +164,14 @@ Please don't plagiarize your code
 
 
 Submit the code as .py file.
+
+
+# August 7 
+
+Cryptography with python assignment:
+
+Go to this site https://cryptopals.com/sets/1 and submit the code of the first 5 questions. Make sure to properly comment on your code in your own words.
+You can either submit the individual .py files or a txt or a word document containing all the codes.
+
+
+
