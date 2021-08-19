@@ -174,4 +174,17 @@ Go to this site https://cryptopals.com/sets/1 and submit the code of the first 5
 You can either submit the individual .py files or a txt or a word document containing all the codes.
 
 
+# August 20 
+
+FINAL QUIZ 
+<img width="1440" alt="Screenshot 2021-08-19 at 11 12 12 PM" src="https://user-images.githubusercontent.com/74819332/130151317-8fff5d3f-2ee2-40be-a011-b98994b397ba.png">
+<img width="1440" alt="Screenshot 2021-08-19 at 11 12 22 PM" src="https://user-images.githubusercontent.com/74819332/130151319-42ae1c2f-e7fc-43c7-ab86-80245e59d641.png">
+<img width="1440" alt="Screenshot 2021-08-19 at 11 12 29 PM" src="https://user-images.githubusercontent.com/74819332/130151318-8c389739-d153-458a-ad8f-508e8f6c3110.png">
+<img width="1440" alt="Screenshot 2021-08-19 at 11 13 26 PM" src="https://user-images.githubusercontent.com/74819332/130151322-6357701a-3dea-4851-a9a2-bfc3b8ddbaa7.png">
+<img width="1440" alt="Screenshot 2021-08-19 at 11 13 24 PM" src="https://user-images.githubusercontent.com/74819332/130151320-83c303a6-8fad-4770-b228-fc39597eaa47.png">
+<img width="1440" alt="Screenshot 2021-08-19 at 11 13 21 PM" src="https://user-images.githubusercontent.com/74819332/130151316-242e2bc8-b631-40b8-9d9f-429803319232.png">
+<img width="1440" alt="Screenshot 2021-08-19 at 11 13 17 PM" src="https://user-images.githubusercontent.com/74819332/130151314-db5ea9d3-261a-4434-a145-3f9358d13c3c.png">
+<img width="1440" alt="Screenshot 2021-08-19 at 11 12 54 PM" src="https://user-images.githubusercontent.com/74819332/130151321-31e5cb7a-5b7c-4784-875f-4c6e26074e11.png">
+<img width="1440" alt="Screenshot 2021-08-19 at 11 12 46 PM" src="https://user-images.githubusercontent.com/74819332/130151315-7d8183ee-c22a-433f-a50b-7ee774619051.png">
+<img width="1440" alt="Screenshot 2021-08-19 at 11 12 40 PM" src="https://user-images.githubusercontent.com/74819332/130151323-673221b4-5079-4fbd-96e3-4304d4403899.png">
 
